@@ -1,0 +1,6 @@
+Name: Alice Smith
+Email: alice.smith@example.com
+Education: B.S. Computer Science
+Experience: 6
+
+Skills: Python, Django, REST APIs, SQL, Docker, AWS, Git

@@ -1,0 +1,17 @@
+[
+    {
+        "candidate_name": "Alice Johnson",
+        "job_title": "Senior Python Developer",
+        "score": 40.0,
+        "matched_skills": [
+            "Python",
+            "REST APIs"
+        ],
+        "missing_skills": [
+            "Django",
+            "SQL",
+            "AWS"
+        ],
+        "feedback": "Could not generate recommendation."
+    }
+]

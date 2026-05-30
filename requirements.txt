@@ -1,1 +1,6 @@
-# Add your project dependencies here
+langchain
+langchain-groq
+fuzzywuzzy
+python-Levenshtein
+jupyter
+pydantic

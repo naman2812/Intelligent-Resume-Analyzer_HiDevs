@@ -1,0 +1,16 @@
+[
+    {
+        "candidate_name": "Alice Smith",
+        "job_title": "Senior Python Developer",
+        "score": 100.0,
+        "matched_skills": [
+            "Python",
+            "Django",
+            "REST APIs",
+            "SQL",
+            "AWS"
+        ],
+        "missing_skills": [],
+        "feedback": "**Assessment and Fit for the Role:**\n\nBased on the provided candidate profile and job description, Alice Smith appears to be a strong fit for the Senior Python Developer role. Her technical skills align closely with the required skills, including proficiency in Python, Django, REST APIs, SQL, and AWS. Additionally, her 6 years of experience and B.S. in Computer Science demonstrate a solid foundation in software development. However, it's worth noting that the job description requires 5 years of experience, and Alice has 1 year more than the minimum requirement. Nevertheless, her extensive skill set and experience make her a promising candidate for the position.\n\n**Interview Questions:**\n\n1. **Can you walk us through your experience with Django, and how you've optimized its performance in a large-scale application?**\n\nThis question assesses Alice's hands-on experience with Django, her ability to think critically about performance optimization, and her problem-solving skills.\n\n2. **How do you approach designing and implementing REST APIs, and what considerations do you take into account to ensure scalability and security?**\n\nThis question evaluates Alice's understanding of REST API design principles, her ability to balance scalability and security, and her experience with implementing APIs in a production environment."
+    }
+]

@@ -1,0 +1,9 @@
+--- Hiring Assistant Report ---
+Candidate: Alice Johnson
+Job Title: Senior Python Developer
+Match Score: 40.00%
+Matched Skills: Python, REST APIs
+Missing Skills: Django, SQL, AWS
+
+--- AI Feedback & Interview Questions ---
+Could not generate recommendation.
