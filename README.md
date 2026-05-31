@@ -24,3 +24,24 @@ This is a Python-based application that automates the resume screening process. 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/naman2812/intelligent_resume_analyzer_hidevs.git
+   
+2. Navigate into the project directory:
+   ```bash
+   cd intelligent_resume_analyzer_hidevs
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Set your Groq API Key as an environment variable in your terminal:
+   ```bash
+   export GROQ_API_KEY="gsk_your_actual_key_here"
+
+🚀 Usage Guidelines
+Once your environment is set up, you can run the main orchestrator script.
+
+To analyze the sample resume provided in the data/ folder, run:
+
+   ```bash
+   python main.py
+
+   The application will output its progress to the terminal. Once complete, navigate to the output/ directory to view the exported report.txt and results.json files! To test a different resume, simply replace the text inside data/sample_resume.txt.
