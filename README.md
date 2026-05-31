@@ -6,7 +6,7 @@
 - **LinkedIn/Portfolio:** [www.linkedin.com/in/naman-lad-44bb1a35a]
 
 ## 🎥 Project Demo Video
-[Link to your < 3 minute YouTube Demo Video here]
+[https://youtu.be/BYwqIBIAy8A]
 
 ---
 
